@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+ul li{
+    display: inline;
+}
+/* body */
+#title2{
+    border: 2px solid black;
+    width: 500px;
+    height: 100vh;
+}
